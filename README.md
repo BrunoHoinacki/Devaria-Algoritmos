@@ -1,1 +1,1 @@
-# Repositório referente aos scripts algotrimos do módulo de logica de programação da Devaria
+# Repositório referente aos scripts algoritmos do módulo de logica de programação da Devaria
